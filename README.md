@@ -12,7 +12,7 @@ Then the truncated vector is the feature set of the path, and we can immediately
 
 In this student project I used random forests and convolutional neural networks on these signatures.
 
-## Project description
+## Project description - I was supervised by Dr Paul Moore and Dr Yue Wu during 2020 summer
 
 An electricity bill is usually displayed with the total consumption rather than with how much each individual appliance - fridge, boiler, microwave etc - consumes.
 
