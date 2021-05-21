@@ -37,4 +37,4 @@ https://pypi.org/project/esig/
 
 I used iisignature for this project; everything is calculated in miliseconds.
 
-The code I wrote, unclean, exactly the way I experimented with the problem, is provided. 
+Just some of the code I wrote, unclean, exactly the way I experimented with the problem, is provided. 
