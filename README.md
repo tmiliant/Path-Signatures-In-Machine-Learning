@@ -37,4 +37,4 @@ https://pypi.org/project/esig/
 
 I used iisignature for this project; everything is calculated in miliseconds.
 
-Just some of the code I wrote, unclean, exactly the way I experimented with the problem, is provided. 
+In this repository, I only provide a fraction of the code I wrote, unclean, exactly the way I experimented with the problem - I also wrote different code, but it is not related to the topic of this repository, which is the use of path signatures in machine learning. I also want to add that 
