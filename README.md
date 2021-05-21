@@ -29,3 +29,12 @@ I obtained 94% accuracy on this. Accuracy is measured like this: proportion of p
 
 This shows the power of the path signature and its potential for other uses in machine learning.  
 
+## Code
+
+The data processing is very important, because it calculates the signatures. This can be done using the following packages:
+https://github.com/bottler/phd-docs/blob/master/iisignature.pdf
+https://pypi.org/project/esig/
+
+I used iisignature for this project; everything is calculated in miliseconds.
+
+The code I wrote, unclean, exactly the way I experimented with the problem, is provided. 
