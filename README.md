@@ -1,4 +1,4 @@
-# Path signatures in machine learning, especially used in time series analysis
+# Path signatures in machine learning, especially used in time series classification and prediction.
 
 ## Path signature
 
