@@ -23,9 +23,9 @@ As an example, the problem is: given the total consumption graph - voltage, curr
 I used the UK Dale dataset, publicly available.
 
 Train: each individual appliance with how much it consumed for a period of a few years
-Test:  given total consumption, derive how much did fridge consumed.
+Test:  given total consumption, derive how much did the fridge consume.
 
-I obtained 94% accuracy on this. Accuracy is measured like this: proportion of period of time where I predict the `on`/`off` states of the fridge correctly.
+I obtained 94% accuracy on this. Accuracy is measured like this: proportion of period of time where I predict the `on`/`off` states of the fridge correctly. `on` just means that the monitored power of the fridge is >20W.
 
 This shows the power of the path signature and its potential for other uses in machine learning.  
 
