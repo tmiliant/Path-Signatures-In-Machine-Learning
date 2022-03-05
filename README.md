@@ -2,7 +2,7 @@
 
 ## Path signature
 
-We use a pure mathematics tool called the "path signature" to build features for machine learning. 
+I use a pure mathematics tool called the "path signature" to build features for machine learning. 
 
 There are plenty of resources for understanding this topic, here is the best one I know so far: https://arxiv.org/abs/1603.03788 .
 
@@ -12,7 +12,7 @@ Then the truncated vector is the feature set of the path, and we can immediately
 
 In this student project I used random forests and convolutional neural networks on these signatures.
 
-## Project description 
+## Project description - supervised by Dr Paul Moore and Dr Yue Wu
 
 An electricity bill is usually displayed with the total consumption rather than with how much each individual appliance - fridge, boiler, microwave etc - consumes.
 
