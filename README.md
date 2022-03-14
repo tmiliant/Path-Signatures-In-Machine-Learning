@@ -9,7 +9,7 @@ Essentially, one can summarize a path using a vector of numbers. This vector is 
 
 Then the truncated vector is the feature set of the path, and we can immediately turn this into a classification or a prediction problem. 
 
-In this student project I used random forests and convolutional neural networks on these signatures.
+In this research project I used random forests and convolutional neural networks on these signatures.
 
 ## Project description - supervised by Dr Paul Moore and Dr Yue Wu
 
