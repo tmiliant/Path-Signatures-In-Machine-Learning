@@ -7,7 +7,7 @@ There are plenty of resources for understanding this topic, here is the best one
 
 Essentially, one can summarize a path using a vector of numbers. This vector is infinite, and under some easy-to-satisfy conditions, it uniquely determines the path. As computers cannot store infinity, we can truncate this vector empirically to decide how much of it we should keep in our data science use-cases. 
 
-Then the truncated vector is the feature set of the path, and we can immediately turn this into a classification or a prediction problem. Just as important, or even more, we can use this for predictive purposes. 
+Then the truncated vector is the feature set of the path, and we can immediately turn this into a classification or a prediction problem. 
 
 In this student project I used random forests and convolutional neural networks on these signatures.
 
