@@ -34,5 +34,5 @@ The data processing is very important, because it calculates the signatures. Thi
 https://github.com/bottler/phd-docs/blob/master/iisignature.pdf
 https://pypi.org/project/esig/
 
-I used iisignature for this project; everything is calculated in miliseconds.
+I chose to use iisignature for this project, and noticed that the signatures were computed within miliseconds for a 3x320 path.
 
