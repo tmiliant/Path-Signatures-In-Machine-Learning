@@ -3,7 +3,7 @@
 ## Path signature
 
 I use a pure mathematics tool called the "path signature" to build features for machine learning. 
-There are plenty of resources for understanding this topic, here is the best one I know so far: https://arxiv.org/abs/1603.03788.
+There are plenty of resources for understanding this topic, here is the best one I know so far: https://arxiv.org/abs/1603.03788. Additionally, I am using the pysegments package https://github.com/datasig-ac-uk/pysegments, which is used to adapt the model's predictions to the detection of appliance usage.
 
 Essentially, one can summarize a path using a vector of numbers. This vector is infinite, and under some easy-to-satisfy conditions, it uniquely determines the path. As computers cannot store infinity, we can truncate this vector empirically to decide how much of it we should keep in our data science use-cases. 
 
