@@ -19,7 +19,7 @@ Therefore, it would be very useful to derive, by just using the voltage and curr
 
 As an example, the problem is: given the total consumption graph - voltage, current for all appliances - tell me how much the fridge consumed. It seems hard to derive how much the fridge consumed by considering all the consumptions of the fridge, microwave, boiler and other 20 appliances on top of each other.
 
-I used the UK Dale dataset, publicly available.
+I used the UK Dale dataset, publicly available. The preprocessing of this data turned out to be very challenging, because of the use of FLAC files, having one per hour. Thus each such file must be processed first, then all of them concatenated together to form a very large dataset. 
 
 Train: each individual appliance with how much it consumed for a period of a few years.
 Test:  given total consumption, derive how much did the fridge consume.
