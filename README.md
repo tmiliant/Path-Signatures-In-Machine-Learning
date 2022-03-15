@@ -1,6 +1,6 @@
-# Path signatures in machine learning, especially used in time series classification and prediction. My repository also appears for reference at https://paperswithcode.com/paper/a-primer-on-the-signature-method-in-machine and https://arxiv.org/abs/1603.03788.
+# Path signatures in machine learning, especially used in time series classification and prediction. My repository also appears for reference at https://paperswithcode.com/paper/a-primer-on-the-signature-method-in-machine and https://arxiv.org/abs/1603.03788. my research output is also made available in this repository.
 
-## Path signature: my research output is also made available in this repository.
+## Path signature
 
 I use a pure mathematics tool called the "path signature" to build features for machine learning. 
 There are plenty of resources for understanding this topic, here is the best one I know so far: https://arxiv.org/abs/1603.03788. Additionally, I am using the pysegments package https://github.com/datasig-ac-uk/pysegments, which is used to adapt the model's predictions to the detection of appliance usage.
