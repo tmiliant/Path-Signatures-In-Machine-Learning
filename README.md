@@ -1,4 +1,4 @@
-# Path signatures in machine learning, especially used in time series classification and prediction. My repository also appears for reference at https://paperswithcode.com/paper/a-primer-on-the-signature-method-in-machine and https://arxiv.org/abs/1603.03788. My research output is also made available in this repository.
+# Path signatures in machine learning, especially used in time series classification and prediction. My repository also appears for reference at https://paperswithcode.com/paper/a-primer-on-the-signature-method-in-machine and https://arxiv.org/abs/1603.03788. My research output is also made available in this repository. Please see the paper at https://ieeexplore.ieee.org/abstract/document/9747285. 
 
 ## Path signature
 
